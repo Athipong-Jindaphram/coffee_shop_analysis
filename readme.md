@@ -18,7 +18,7 @@ By cleaning raw transactional data with **Python (Pandas)** and performing deep-
 ## 🛠️ Tech Stack & Tools
 * **Data Cleaning & Feature Engineering:** Python (Pandas, Jupyter Notebook)
 * **Database & Analytical Queries:** PostgreSQL (Common Table Expressions (CTEs), Window Functions, Aggregations)
-* **Visualization / Dashboard:** [Specify your tool here, e.g., Power BI / Tableau / Excel / Matplotlib]
+* **Visualization / Dashboard:** PowerBI
 
 ---
 
@@ -121,9 +121,9 @@ Below is the comprehensive dashboard illustrating monthly sales trends, category
 
 By analyzing the product distribution, we can observe the 80/20 rule in effect, where a couple of core categories drive the vast majority of the business's total revenue.
 
-![Product Category Revenue Share](images/bar_chart.png)
+![Product Category Revenue Share - Bar Chart](images/bar_chart.png)
 
-![Product Category Revenue Share](images/donut_chart.png)
+![Product Category Revenue Share - Donut Chart](images/donut_chart.png)
 
 * **Core Revenue Drivers:** **Coffee** is the undisputed top-performing category, contributing **$269.95K (40.83%)** of total sales, followed closely by **Tea** at **$196.41K (29.71%)**. Together, they account for over 70% of the coffee shop's total income.
 * **Top Product Types:** Looking into the product breakdown, **Barista Espresso** ($91K) and **Brewed Chai Tea** ($77K) are the individual products driving the highest transaction volumes and financial impact.
